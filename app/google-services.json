@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968292314138",
+    "firebase_url": "https://garage-test-9a560-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "garage-test-9a560",
+    "storage_bucket": "garage-test-9a560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968292314138:android:ead0f64b3b4beebaacf5a3",
+        "android_client_info": {
+          "package_name": "dev.tomco.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968292314138-2ptffpt3t0cd86b3eje4f74r1qc3jgcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5o9ag7bSoTa7lWg3Xo1KdLgtSEUq_H_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968292314138-2ptffpt3t0cd86b3eje4f74r1qc3jgcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
